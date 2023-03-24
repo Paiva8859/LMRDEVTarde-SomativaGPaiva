@@ -1,0 +1,35 @@
+.cadastro input {
+    height: 10px;
+    width: 300px;
+}
+
+.cadastro {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    
+    
+}
+
+body {
+    width: 80%;
+    background-color: bisque;
+}
+
+.botoes {
+    height: auto;
+    width: auto;
+}
+
+.login {
+    color: aliceblue;
+    font-size: 3em;
+    text-align: center;
+}
+
+
+.img {
+    height: 300px;
+}
+
